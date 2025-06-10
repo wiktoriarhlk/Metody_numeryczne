@@ -96,6 +96,6 @@ Każda funkcja posiada testy jednostkowe (`tests/`) sprawdzające poprawność d
 
 ## 👨‍💻 Autor
 
-Projekt opracowany w ramach ćwiczeń z metod numerycznych przez Joannę Polak i Wiktorię Rychlak.  zredaguj ładnie
+Projekt opracowany w ramach ćwiczeń z metod numerycznych przez Joannę Polak i Wiktorię Rychlak.
 
 
