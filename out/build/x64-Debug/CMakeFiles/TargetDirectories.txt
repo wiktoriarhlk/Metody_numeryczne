@@ -1,0 +1,15 @@
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/numlib.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/example_system_solver.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/example_interpolation.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/example_approximation.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/example_integration.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/example_ode_solver.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/example_nonlinear_solver.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/test_linear_solver.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/test_interpolation.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/test_approximation.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/test_integration.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/test_ode_solver.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/test_nonlinear_solver.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

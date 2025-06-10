@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "numlib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example_approximation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_approximation-Debug-ea0726495cd14d8a2a32.json",
+					"name" : "example_approximation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_integration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_integration-Debug-cc47f7fe75844c110295.json",
+					"name" : "example_integration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_interpolation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_interpolation-Debug-57a2f289fe3ecb0129d5.json",
+					"name" : "example_interpolation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_nonlinear_solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_nonlinear_solver-Debug-5ddf8d23684709885651.json",
+					"name" : "example_nonlinear_solver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_ode_solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_ode_solver-Debug-e033f119e8dfe14a52a9.json",
+					"name" : "example_ode_solver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_system_solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_system_solver-Debug-2e3320eb018fb594cfe5.json",
+					"name" : "example_system_solver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numlib-Debug-26e27dd7422596d5427b.json",
+					"name" : "numlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_approximation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_approximation-Debug-6e536f520799f884cdc2.json",
+					"name" : "test_approximation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_integration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_integration-Debug-c2ee33b96ed6e2f0ab19.json",
+					"name" : "test_integration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_interpolation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_interpolation-Debug-adc673f17032d211d2d1.json",
+					"name" : "test_interpolation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_linear_solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_linear_solver-Debug-610debfa9add152d2c3a.json",
+					"name" : "test_linear_solver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_nonlinear_solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_nonlinear_solver-Debug-73a610e1a27c18ca6bb1.json",
+					"name" : "test_nonlinear_solver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_ode_solver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_ode_solver-Debug-c564db0af70af4c8729b.json",
+					"name" : "test_ode_solver",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main/out/build/x64-Debug",
+		"source" : "C:/Users/rychl/OneDrive/Pulpit/IV semstr/Metody numeryczne/Metody_numeryczne-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
