@@ -5,6 +5,7 @@ Projekt biblioteki numerycznej realizowany w ramach zajęć z metod numerycznych
 # 📁 Struktura projektu
 
 Metody_numeryczne-main
+
 include/               # Pliki nagłówkowe (*.h)
 src/                   # Implementacje funkcji (*.cpp)
 tests/                 # Testy jednostkowe
