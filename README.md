@@ -77,40 +77,6 @@ Biblioteka zawiera zaimplementowane metody numeryczne w następujących obszarac
 
 - Naciśnij ▶ aby uruchomić
 
-## ▶️ Uruchamianie
-
-Testy:
-
-bash
-
-./test_approximation
-
-./test_linear_system_solver
-
-./test_linear_solver
-
-./test_integration
-
-./test_nonlinear_solver
-
-./test_ode_solver
-
-
-Przykłady:
-
-bash
-
-./example_approximation
-
-./example_system_solver
-
-./example_interpolation
-
-./example_integration
-
-./example_ode_solver
-
-./example_nonlinear_solver
 
 ## ✅ Testowanie
 
