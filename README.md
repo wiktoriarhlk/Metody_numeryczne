@@ -64,37 +64,54 @@ Biblioteka zawiera zaimplementowane metody numeryczne w następujących obszarac
 - CMake ≥ 3.10
 
 ### Budowanie (Linux/Mac/WSL/MinGW)
-bash
-mkdir build
-cd build
-cmake ..
-make
+- bash
+- mkdir build
+- cd build
+- cmake ..
+- make
 
 ### Budowanie (Visual Studio)
-Otwórz folder jako projekt CMake
+- Otwórz folder jako projekt CMake
 
-Wybierz „element startowy” (np. test_approximation.exe)
+- Wybierz „element startowy” (np. test_approximation.exe)
 
-Naciśnij ▶ aby uruchomić
+- Naciśnij ▶ aby uruchomić
 
 ## ▶️ Uruchamianie
 
 Testy:
+
 bash
+
 ./test_approximation
+
 ./test_linear_system_solver
+
 ./test_linear_solver
+
 ./test_integration
+
 ./test_nonlinear_solver
+
 ./test_ode_solver
+
+
 Przykłady:
+
 bash
+
 ./example_approximation
+
 ./example_system_solver
+
 ./example_interpolation
+
 ./example_integration
+
 ./example_ode_solver
+
 ./example_nonlinear_solver
+
 ## ✅ Testowanie
 
 Każda funkcja posiada testy jednostkowe (`tests/`) sprawdzające poprawność działania oraz przypadki brzegowe.
