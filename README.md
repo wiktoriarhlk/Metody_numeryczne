@@ -6,10 +6,10 @@ Projekt biblioteki numerycznej realizowany w ramach zajęć z metod numerycznych
 
 Metody_numeryczne-main
 
-include/               # Pliki nagłówkowe (*.h)
-src/                   # Implementacje funkcji (*.cpp)
-tests/                 # Testy jednostkowe
-examples/              # Przykłady użycia funkcji bibliotecznych
+include                # Pliki nagłówkowe (*.h)
+src                    # Implementacje funkcji (*.cpp)
+tests                  # Testy jednostkowe
+examples               # Przykłady użycia funkcji bibliotecznych
 CMakeLists.txt         # Konfiguracja budowania CMake
 README.md              # Niniejszy plik
 
@@ -49,11 +49,6 @@ Biblioteka zawiera zaimplementowane metody numeryczne w następujących obszarac
 ### 🔷 Równania nieliniowe
 - Metoda Newtona
 - Metoda siecznych
-
----
-
-
-
 
 ---
 
@@ -99,11 +94,6 @@ bash
 
 Każda funkcja posiada testy jednostkowe (`tests/`) sprawdzające poprawność działania oraz przypadki brzegowe.
 
-## 📌 Uwagi
-
-- Gauss-Legendre: zaimplementowano dla `n = 2, 3, 4, 5`
-- Runge-Kutta: wzorcowa dokładność dla równań `y' = f(x, y)`
-- Newton i sieczne kończą iteracje przy osiągnięciu zadanej dokładności `ε`
 
 ## 👨‍💻 Autor
 
