@@ -6,17 +6,17 @@ Projekt biblioteki numerycznej realizowany w ramach zajęć z metod numerycznych
 
 Metody_numeryczne-main/
 
-├── include/ # Pliki nagłówkowe (.h) 
+├── include/               # Pliki nagłówkowe (.h) 
 
-├── src/ # Implementacje funkcji (.cpp)
+├── src/                   # Implementacje funkcji (.cpp)
 
-├── tests/ # Testy jednostkowe
+├── tests/                 # Testy jednostkowe
 
-├── examples/ # Przykłady użycia funkcji bibliotecznych
+├── examples/              # Przykłady użycia funkcji bibliotecznych
 
-├── CMakeLists.txt # Konfiguracja budowania (CMake)
+├── CMakeLists.txt         # Konfiguracja budowania (CMake)
 
-└── README.md # Dokumentacja projektu
+└── README.md              # Dokumentacja projektu
 
 
 # Metody numeryczne – projekt biblioteki obliczeniowej
